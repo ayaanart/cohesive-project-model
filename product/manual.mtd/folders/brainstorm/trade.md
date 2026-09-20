@@ -4,4 +4,6 @@
 No exports.
 
 ## Import(s)
-- ID4 as "Brainstorm Session"
+- ID3 as "Brainstorm Attempt File"
+- ID7 as "Brainstorm Result File"
+- ID6 as "Brainstorm Goal File"
