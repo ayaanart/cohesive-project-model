@@ -1,3 +1,5 @@
 ID1: "human-ram/" | "Human RAM"
 ID2: "files/goal/" | "Goal File"
-ID3: "files/brainstorm" | "Brainstorm File"
+ID3: "files/brainstorm/attempt/" | "Brainstorm Attempt File"
+ID4: "brainstorm/session/" | "Brainstorm Session"
+ID5: "folders/brainstorm" | "Brainstorm Folder"
